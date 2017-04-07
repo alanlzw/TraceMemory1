@@ -1,0 +1,7 @@
+#Tue Apr 04 17:19:38 CST 2017
+base.0=D\:\\bottom\\TraceMemory1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b11613084b6f12370f53a3e0f74dd36e955620e0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\bottom\\TraceMemory1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_28c0bef158378506466bf31cc36e5e498e164ee6\\classes.dex
+base.1=D\:\\bottom\\TraceMemory1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_28c0bef158378506466bf31cc36e5e498e164ee6
+file.0=D\:\\bottom\\TraceMemory1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b11613084b6f12370f53a3e0f74dd36e955620e0\\classes.dex

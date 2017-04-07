@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\bottom\\TraceMemory1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addpage.xml",
+        "source": "D:\\bottom\\TraceMemory1\\app\\src\\main\\res\\layout\\addpage.xml"
+    },
+    {
+        "merged": "D:\\bottom\\TraceMemory1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personpage.xml",
+        "source": "D:\\bottom\\TraceMemory1\\app\\src\\main\\res\\layout\\personpage.xml"
+    },
+    {
+        "merged": "D:\\bottom\\TraceMemory1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\bottom\\TraceMemory1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\bottom\\TraceMemory1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchpage.xml",
+        "source": "D:\\bottom\\TraceMemory1\\app\\src\\main\\res\\layout\\searchpage.xml"
+    },
+    {
+        "merged": "D:\\bottom\\TraceMemory1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homepage.xml",
+        "source": "D:\\bottom\\TraceMemory1\\app\\src\\main\\res\\layout\\homepage.xml"
+    },
+    {
+        "merged": "D:\\bottom\\TraceMemory1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\followpage.xml",
+        "source": "D:\\bottom\\TraceMemory1\\app\\src\\main\\res\\layout\\followpage.xml"
+    }
+]

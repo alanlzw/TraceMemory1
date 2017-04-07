@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\bottom\TraceMemory1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a86d7a9e29c0490b7458d127450e21244eabd257">
+        <dex dex="D:\bottom\TraceMemory1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b11613084b6f12370f53a3e0f74dd36e955620e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android_studio\AndroidSdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\bottom\TraceMemory1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_f88cd2283490680586e9e08deb4068f66f52a685\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bottom\TraceMemory1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\bottom\TraceMemory1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8142d68bacdcf0abeedd3a3fb8a49ea24218e2a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bottom\TraceMemory1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ddf71bf338082f6ab9b153224bf3ea0245ef1cd">
+        <dex dex="D:\bottom\TraceMemory1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_28c0bef158378506466bf31cc36e5e498e164ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bottom\TraceMemory1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\bottom\TraceMemory1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_688d94ca173f1d37e4a3e61e1dfa4878e62b472b\classes.dex" />
+    </item>
+
+</items>
